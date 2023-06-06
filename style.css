@@ -22,6 +22,7 @@ main {
     padding: 100px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
     color: white;
     background-color: rgba(0, 0, 0, 0.452);
+    color: black;
 }
 
 footer {
