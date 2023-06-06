@@ -1,9 +1,9 @@
 let area_tijolo = 0.0336;
 
-let nome_pessoa = prompt('OLÁ, QUAL SEU NOME?');
-           alert(`SEJA BEM VINDO(A) AO CALCULADOR DE TIJOLOS ${nome_pessoa}, A PRÓXIMA ETAPA É SÓ ME PASSAR ALGUMAS INFORMAÇÕES BÁSICAS`);
-let altura_parede = prompt('QUAL A ALTURA DA PAREDE?\n');
-let largura_parede = prompt('AGORA ME DIGA A LARGURA DA PAREDE?\n');
+let nome_pessoa = prompt('Olá, Qual o seu nome?');
+           alert(`Seja bem vindo(a) ao calculador de tijlos ${nome_pessoa}, a próxima etapa é só me passar algumas informações básicas, ok?`);
+let altura_parede = prompt('Qual a altura da parade em metros?\n');
+let largura_parede = prompt('Agora me diga a Largura da parede em metros? \n');
 
 let area_parede = altura_parede * largura_parede;
 let quantidade_tijolos = Math.ceil(area_parede / area_tijolo);
