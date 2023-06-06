@@ -1,0 +1,37 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    background-image: url(imagem.jpg);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+}
+
+footer {
+    text-align: center;
+    padding: 20px; /* Adicionei padding para melhorar a aparência do rodapé */
+}
+
+.botao {
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(173, 133, 74);
+    padding: 10px 20px; /* Adicionei padding para melhorar a aparência do botão */
+}
