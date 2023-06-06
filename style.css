@@ -17,7 +17,7 @@ h1 {
 
 main {
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     padding: 100px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
     color: white;
@@ -43,7 +43,7 @@ footer {
     }
 
     main {
-        font-size: 16px; /* Ajuste adicional para telas menores */
+        font-size: 30px; /* Ajuste adicional para telas menores */
     }
 
     .botao {
