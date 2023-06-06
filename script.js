@@ -8,6 +8,6 @@ let largura_parede = prompt('AGORA ME DIGA A LARGURA DA PAREDE?\n');
 let area_parede = altura_parede * largura_parede;
 let quantidade_tijolos = Math.ceil(area_parede / area_tijolo);
 
-document.write('A quantidade de tijolos que você precisa para construir essa parede é de:', quantidade_tijolos);
+document.write('A quantidade de tijolos que você precisa é de:', quantidade_tijolos);
 
 
