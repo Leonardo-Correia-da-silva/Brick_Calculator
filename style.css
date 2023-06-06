@@ -32,7 +32,23 @@ footer {
 
 .botao {
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 16px;
     background-color: rgb(173, 133, 74);
     padding: 10px 20px; /* Adicionei padding para melhorar a aparência do botão */
 }
+
+
+@media (max-width: 480px) { /* Media query para telas menores de 480 pixels */
+    h1 {
+        font-size: 20px; /* Ajuste adicional para telas menores */
+    }
+
+    main {
+        font-size: 16px; /* Ajuste adicional para telas menores */
+    }
+
+    .botao {
+        font-size: 14px; /* Ajuste adicional para telas menores */
+    }
+}
+
