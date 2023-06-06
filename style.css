@@ -22,7 +22,7 @@ main {
     padding: 100px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
     color: white;
     background-color: rgba(0, 0, 0, 0.452);
-    color: black;
+    
 }
 
 footer {
@@ -35,6 +35,7 @@ footer {
     font-size: 16px;
     background-color: rgb(173, 133, 74);
     padding: 10px 20px; /* Adicionei padding para melhorar a aparência do botão */
+    color: black;
 }
 
 
