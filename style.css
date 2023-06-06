@@ -19,7 +19,7 @@ main {
     text-align: center;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    padding: 200px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
+    padding: 100px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
     color: white;
     background-color: rgba(0, 0, 0, 0.452);
 }
