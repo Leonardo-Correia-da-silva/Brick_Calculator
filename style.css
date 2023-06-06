@@ -17,16 +17,16 @@ h1 {
 
 main {
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    padding: 20px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
+    padding: 200px; /* Reduzi o padding para ficar mais adequado em dispositivos menores */
     color: white;
     background-color: rgba(0, 0, 0, 0.452);
 }
 
 footer {
     text-align: center;
-    padding: 20px; /* Adicionei padding para melhorar a aparência do rodapé */
+    padding: 80px; /* Adicionei padding para melhorar a aparência do rodapé */
 }
 
 .botao {
